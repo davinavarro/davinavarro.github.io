@@ -12,7 +12,7 @@ Here are some examples of what a post with images might look like. If you want t
 ### Figures (for images or video)
 
 
-<iframe src="https://drive.google.com/file/d/140QStB_V-p4PfKGFGv3QzjFN0LAPvAlH/preview" width="680" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/140QStB_V-p4PfKGFGv3QzjFN0LAPvAlH/preview" width="700" height="480"></iframe>
 
 #### One Up
 
