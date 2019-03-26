@@ -5,7 +5,7 @@ date:   2019-01-01
 excerpt: "Software em desenvolvimento desde 2017, com foco em coleta e análise de dados para a indústria de petróleo e gás."
 project: true
 tag:
-- moon
+- python
 comments: true
 ---
 
