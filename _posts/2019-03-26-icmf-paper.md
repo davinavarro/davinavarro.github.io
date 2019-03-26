@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Estimation Of Gas-Liquid Flow Patterns Utilizing Machine Learning Methods"
+title: "Liquid-Liquid Flow Pattern Transition in Pipes Using Machine Learning"
 date: 2019-03-26
 excerpt: "Trabalho a ser apresentado no 10th International Conference on Multiphase Flow (ICMF 2019)"
 comments: true
