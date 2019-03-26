@@ -16,3 +16,16 @@ comments: true
 <figure>
 	<a href="/assets/img/cfdash_homepage.PNG"><img src="/assets/img/cfdash_homepage.PNG"></a>
 </figure>
+
+<figure>
+	<a href="/assets/img/Database.PNG"><img src="/assets/img/Database.PNG"></a>
+</figure>
+
+
+<figure>
+	<a href="/assets/img/sumário.PNG"><img src="/assets/img/sumário.PNG"></a>
+</figure>
+
+<figure>
+	<a href="/assets/img/3dplotgif.gif"><img src="/assets/img/3dplotgif.gif"></a>
+</figure>
