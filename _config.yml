@@ -5,7 +5,7 @@ description:        "Um website para os meus projetos"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
-background:         https://cdn-images-1.medium.com/max/2560/1*OOWSoWHeQ5kyJ4N0P2ptNA.png
+background:         assets\img\bgImg.jpg
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://davinavarro.github.io/
